@@ -1,2 +1,2 @@
-# classificador-de-navios-tf-wnn
-Repositório criado para disponibilizar código gerado para aplicação de Classificação de Navios utilizando modelos WiSARD, BTHOWeN e CNN.
+# Trabalho Final RNSP: Classificador de Navios utilizando Redes Neurais sem Peso
+Repositório criado para compartilhar código gerado para aplicação de Classificação de Navios utilizando modelos WiSARD, BTHOWeN e CNN.
